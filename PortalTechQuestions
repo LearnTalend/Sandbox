@@ -1,0 +1,14 @@
+Portal Tech Questions
+
+1. Where will contacts get populated from (ie. user reference data)?
+2. Will they take a distinct set of contacts from PMT/TPR?
+3. How will Portal Tech manage new contacts? (Feed from PMT/TPR)
+4. What will we match the contact on? (email address, first name + last name etc?)
+5. Do the different systems store the contact name the same?
+
+
+TPR
+1. How do we identify the contact role?
+2. Do we need a mapping exercise for CM_CONTACT.CCO_TITLE to DEV, PUB, LEAD_DEV 
+
+
